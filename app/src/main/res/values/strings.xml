@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My App2</string>
+    <string name="submit_button">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_link">Project on GITHUB(Link)</string>
+    <string name="warningtext">Submission not Successful</string>
+    <string name="successtext">Submission Successful</string>
+    <string name="maintexttext">Are Your Sure ?</string>
+    <string name="miandialogtext">Yes</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skills IQ Leaders</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_navigation">MainNavigationActivity</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="mainsubbutton">Submit</string>
+
+</resources>
